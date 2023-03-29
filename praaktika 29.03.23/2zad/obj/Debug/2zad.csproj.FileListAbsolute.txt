@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\bin\Debug\2zad.exe.config
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\bin\Debug\2zad.exe
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\bin\Debug\2zad.pdb
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\obj\Debug\2zad.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\obj\Debug\2zad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\obj\Debug\2zad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\obj\Debug\2zad.exe
+C:\Users\Admin\source\repos\praaktika 29.03.23\2zad\obj\Debug\2zad.pdb

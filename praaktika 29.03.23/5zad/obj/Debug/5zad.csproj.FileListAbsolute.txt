@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\bin\Debug\5zad.exe.config
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\bin\Debug\5zad.exe
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\bin\Debug\5zad.pdb
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\obj\Debug\5zad.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\obj\Debug\5zad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\obj\Debug\5zad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\obj\Debug\5zad.exe
+C:\Users\Admin\source\repos\praaktika 29.03.23\5zad\obj\Debug\5zad.pdb
